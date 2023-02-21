@@ -19,16 +19,20 @@ This Magazine domain inputs three model classes: Author, Article ,Magazine and t
 ## END
 
 
-## Installation Requirements
-Access to a computer,tablet or phone.
-An access to internet.
-Run bundle install to install the Gemfile.
+## Installation Requirements and Process.
+1. Access to a computer,tablet or phone.
+2. An access to internet.
 
+-First create a project folder
+-Run bundler init in your directory on the terminal
+-Run bundle install in the directory with Gemfile
+-Run gem install pry
+-Run gem install require
+-Run gem install require_all.
 
-## Installation Process
-Fork this project to run on your local machine,fork then git-clone.(https://github.com/nthokiesther09/Articles-without-AR)
+To access this project, fork this project to run on your local machine,fork then git-clone.(https://github.com/nthokiesther09/Articles-without-AR)
 
-Click on the link below to access the app. https://github.com/nthokiesther09/Articles-without-AR
+Click on the link below to access the Magazine domain. https://github.com/nthokiesther09/Articles-without-AR
 
 ## Techhnology Used
 Ruby
